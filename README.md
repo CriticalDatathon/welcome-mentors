@@ -48,4 +48,21 @@ Your Laptop. Data will be made available in the cloud. We'll be using Colab Note
 As the participants are students, we're not necessarily expecting them to take the lead in their teams. Therefore, you - the mentors - should be the ones planning, leading, and executing the projects. You'll have to get your hands dirty! The workshops and challenges will mostly require AI / Data Science skills and clinical knowledge; mentors in each team will these to the table! In a nutshell, we want mentors to bring their unique perspectives, experience and critical thinking to the table! We're sure you'll do a great job if you understand and appreciate Health Equity and Patient Safety.
 
 ## How to Guide the Teams in each Workshop?
-to-do!
+As a mentor, your role is to facilitate the learning process for the participants during each workshop. Help them understand the workshop's objectives, guide them through the provided materials, and encourage them to ask questions. Assist them in breaking down complex problems into smaller, manageable tasks and ensure that all team members contribute their skills and knowledge to the project. Remember, the goal is to create a collaborative and inclusive learning environment!
+
+## What if I'm not familiar with a particular topic or dataset?
+Don't worry! As a mentor, you're not expected to be an expert in every topic or dataset. If you encounter something you're not familiar with, take it as an opportunity to learn together with the team. Encourage participants to share their knowledge and collaborate in finding answers to challenging questions. If necessary, don't hesitate to reach out to other mentors or the event organizers for assistance.
+
+## How do I handle conflicts within the team?
+Conflicts may arise during the datathon, but it's important to address them promptly and constructively. Encourage open communication, active listening, and empathy among team members. Guide the team in finding common ground and focus on the shared goal of learning and problem-solving. If conflicts persist or escalate, consult with the event organizers for additional support.
+
+## What if a team member is struggling or falling behind?
+As a mentor, it's essential to create an inclusive learning environment and ensure that all participants feel supported. If you notice a team member struggling, approach them privately and ask if they need any assistance or clarification. Offer guidance or suggest pairing them with another team member to work together on a task. Remember, the datathon is about learning and collaboration, so encourage teamwork and peer-to-peer support.
+
+## What resources can I use to help the teams during the datathon?
+In addition to the materials provided in Workshop 0 and the GitHub Repo, you can refer to various online resources, such as documentation, tutorials, and forums, to help teams during the datathon. Encourage participants to search for relevant resources and share them with their teammates. If you're uncertain about a particular resource, consult with other mentors or the event organizers to ensure it's accurate and appropriate for the datathon.
+
+## Will there be any evaluation or feedback for mentors?
+Yes, we highly value your contribution as a mentor and would appreciate your feedback on the event. After the datathon, you will receive an evaluation form to share your thoughts, experiences, and suggestions for improvement. We also encourage participants to provide feedback on their mentors' performance, as this will help us better understand your impact and support your growth as a mentor.
+
+Remember, your role as a mentor is crucial to the success of the MIT Critical Datathon. We appreciate your dedication and enthusiasm in guiding the participants and fostering a collaborative learning experience!
