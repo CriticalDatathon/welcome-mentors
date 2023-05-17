@@ -22,24 +22,24 @@ We'll make sure that all teams are as diverse and inclusive as possible!
 
 | Team | Mentors| 
 | -- | -- |
-| Team 1 | |
-| Team 2 | |
-| Team 3 | |
+| Team 1 | Tristan, Marie, Judy, Alistair, Yugang |
+| Team 2 | Jack, Luca, Leo, Jesse, Bob |
+| Team 3 | Ian, Adrien, Andre, Tom, Valencia |
 
 
 
 ## Teams (with Mentors integrated)
 | Team | High School Students | Mentors | 
 | -- | -- | -- |
-| Team 1 | Bella D'Alessandro, Alex Moreira, Angelyce Sanchez | TBD |
-| Team 2 | Lennon Farias, Christian Gobern, Ariella Johnson | TBD |
-| Team 3 | Ava Domingues, Andrew Daniel, William Shealy | TBD |
-| Team 4 | Angela Hardy, Heidy Gomez, Alexa Eliminowicz | TBD |
-| Team 5 | Ty Messier, Christopher Howard, Michael Scotti | TBD |
-| Team 6 | Hope Moran, Abygail Josephson, Luke Gray | TBD |
-| Team 7 | Shyla Vecchio, Ikakke Okokon, Jonah Buttie | TBD |
-| Team 8 | Jayla R Da Graca, Hadayza Rodriguez Garcia, Devin Cruz | TBD |
-| Team 9 | Margaret Robinson, Marcuslyne Sieh, Adam D'Ercole | TBD |
+| Team 1 | Bella D'Alessandro, Alex Moreira, Angelyce Sanchez, Nikita Mullangi, Nuria | Katelyn, Aviva, Anirban, Sebastian, Chrystinne |
+| Team 2 | Lennon Farias, Christian Gobern, Ariella Johnson, Yueran Jia, Alia Abdulahi | Natalie, Urvish, Barbara, Jonathan, Xiaomeng |
+| Team 3 | Ava Domingues, Andrew Daniel, William Shealy, Andrew Bonney, Katherine Wellington | Elizabeth, Tiffany, Brian, Mingying, Tomonoshin |
+| Team 4 | Angela Hardy, Heidy Gomez, Alexa Eliminowicz, Diego Garay, Amala Mohamed | Bopardikar, Amélie, Dom, Lucas  |
+| Team 5 | Ty Messier, Christopher Howard, Michael Scotti, Ricardo Germain, Blessing Kolawole | Kathryn, Beatrice, François , Joseph |
+| Team 6 | Hope Moran, Abygail Josephson, Luke Gray, Patrick Gould, Isaac Opiyo | Michael, Brian, Grigorij, Mathew |
+| Team 7 | Shyla Vecchio, Ikakke Okokon, Jonah Buttie, Pedro Kono | Kenneth, Charles, Joey, Peter, Chenyu |
+| Team 8 | Jayla R Da Graca, Hadayza Rodriguez Garcia, Devin Cruz, Mariatu Col | Aimee, Patricia, David, Kanan, Rakesh, Sicheng |
+| Team 9 | Margaret Robinson, Marcuslyne Sieh, Adam D'Ercole, Anh Minh Ha | Patricia, Douglas, Fredrik, Pablo, Renata, Matthieu |
 
 ## What to Bring?
 Your Laptop. Data will be made available in the cloud. We'll be using Colab Notebooks, and everything can be done in the cloud. If you prefer, you can also use your local machine.
