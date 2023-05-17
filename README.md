@@ -31,7 +31,7 @@ We'll make sure that all teams are as diverse and inclusive as possible!
 ## Teams (with Mentors integrated)
 | Team | Students | Mentors | 
 | -- | -- | -- |
-| Team 1 | Bella D'Alessandro, Alex Moreira, Angelyce Sanchez, Nikita Mullangi, Nuria | Katelyn, Aviva, Anirban, Sebastian, Chrystinne |
+| Team 1 | Bella D'Alessandro, Alex Moreira, Toby, Nikita Mullangi, Nuria | Katelyn, Aviva, Anirban, Sebastian, Chrystinne |
 | Team 2 | Lennon Farias, Christian Gobern, Ariella Johnson, Yueran Jia, Alia Abdulahi | Natalie, Urvish, Barbara, Jonathan, Xiaomeng |
 | Team 3 | Ava Domingues, Andrew Daniel, William Shealy, Andrew Bonney, Katherine Wellington | Elizabeth, Tiffany, Brian, Mingying, Tomonoshin |
 | Team 4 | Angela Hardy, Heidy Gomez, Alexa Eliminowicz, Diego Garay, Amala Mohamed | Bopardikar, Amélie, Dom, Lucas  |
